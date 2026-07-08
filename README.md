@@ -1,2 +1,2 @@
-# recipes2026
-Recipes book
+# Recipes book
+Some simple recipes
