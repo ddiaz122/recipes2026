@@ -17,3 +17,13 @@
 4. place salt, lime, onions, tomatos, and cilantro into the bowl and mix
 5. Enjoy!
  
+- onion
+- cilantro
+- salt
+- pepper
+- lemon
+
+## Instructions 
+- **cut lemon, cilantro, avocado**
+- **add ingredients to bowl**
+- **stir**
